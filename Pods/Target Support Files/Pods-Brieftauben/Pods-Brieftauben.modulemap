@@ -1,0 +1,6 @@
+framework module Pods_Brieftauben {
+  umbrella header "Pods-Brieftauben-umbrella.h"
+
+  export *
+  module * { export * }
+}
